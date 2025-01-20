@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/widgets.dart';
-import 'package:aa_travel_planner/favoriteRepository.dart';
-import 'package:aa_travel_planner/favoriteCard.dart';
+import 'package:aa_travel_planner/repo/favorite_Repository.dart';
+import 'package:aa_travel_planner/cards/favorite_card.dart';
 import 'package:aa_travel_planner/main.dart';
 
 class FavoritesScreen extends StatefulWidget {

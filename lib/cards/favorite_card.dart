@@ -1,7 +1,7 @@
+import 'package:aa_travel_planner/screens/favorite_details_screen.dart';
 import 'package:flutter/material.dart';
 
-import 'package:aa_travel_planner/favoriteDetailsScreen.dart';
-import 'package:aa_travel_planner/favoriteRepository.dart';
+import 'package:aa_travel_planner/repo/favorite_Repository.dart';
 
 import 'package:aa_travel_planner/main.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:aa_travel_planner/favoriteScreen.dart';
-import 'package:aa_travel_planner/favoriteRepository.dart';
+import 'package:aa_travel_planner/sceens/favorite_Screen.dart';
+import 'package:aa_travel_planner/repo/favorite_Repository.dart';
 
 void main() {
   runApp(const MainApp());

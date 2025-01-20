@@ -1,7 +1,7 @@
 import 'package:aa_travel_planner/main.dart';
 import 'package:flutter/material.dart';
 
-import 'favoriteRepository.dart';
+import '../repo/favorite_Repository.dart';
 
 class RemoveButton extends StatelessWidget {
   const RemoveButton({
